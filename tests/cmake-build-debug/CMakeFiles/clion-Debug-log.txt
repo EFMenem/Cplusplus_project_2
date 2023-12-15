@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S "/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/tests" -B "/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/tests/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/tests/cmake-build-debug

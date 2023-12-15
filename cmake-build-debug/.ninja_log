@@ -1,0 +1,37 @@
+# ninja log v5
+7	925	1701900432063459466	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Nivel.cpp.o	f02e66a0ef61a423
+694	1164	1701898553894586227	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Placa.cpp.o	4f3c9dc9e2bfb433
+6	658	1701463237304750752	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Jugador.cpp.o	e44cea3c8e340044
+8	314	1701879448775895394	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Matriz.cpp.o	f193c09bd233a5f4
+6	779	1701899781517194638	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/main.cpp.o	f79a36f3b0b7242a
+6	703	1701898553430815801	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Dijkstra.cpp.o	ff573aba2298b253
+767	813	1701900447472297827	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/main	29ee8048c951c43a
+7	832	1701712717015274656	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/bGVjdG9y/bGVjdG9y.cpp.o	f12d1f8905caa631
+7	776	1701879449236407218	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Arma.cpp.o	def4e122061c1ef2
+7	968	1701900432108052127	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+7	795	1701547968264197548	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/MenuInteraccion.cpp.o	b0eb90686ad6d971
+6	832	1701898553561633366	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/InventarioArmas.cpp.o	30bc9de61b7f2797
+7	694	1701898553419998487	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Floyd.cpp.o	c11fc59a32d624cd
+1	128	1702653796671705922	build.ninja	da4644a42164d5ac
+7	767	1701900447425269849	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Laberinto.cpp.o	449d6f41387ffe65
+7	838	1701898553569511799	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Grafo.cpp.o	3c1846e60ab2653e
+7	645	1701712716828503154	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/bGVjdG9y/ZGVjb2Rl.cpp.o	9a02d92765fa0d75
+0	53	1702653796671705922	build.ninja	da4644a42164d5ac
+7	104	1702653796783270315	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Matriz.cpp.o	f193c09bd233a5f4
+7	404	1702653797082178830	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Floyd.cpp.o	c11fc59a32d624cd
+7	469	1702653797144165072	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Dijkstra.cpp.o	ff573aba2298b253
+7	592	1702653797268182140	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Arma.cpp.o	def4e122061c1ef2
+6	595	1702653797271909359	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Placa.cpp.o	4f3c9dc9e2bfb433
+6	632	1702653797309718804	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/main.cpp.o	f79a36f3b0b7242a
+7	641	1702653797318797556	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Grafo.cpp.o	3c1846e60ab2653e
+7	687	1702653797364959161	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Laberinto.cpp.o	449d6f41387ffe65
+404	950	1702653797621774545	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/InventarioArmas.cpp.o	30bc9de61b7f2797
+6	813	1702653888480528334	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+7	856	1702653976860122986	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+8	699	1702654020580949709	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/main.cpp.o	f79a36f3b0b7242a
+8	766	1702654020648433174	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+11	789	1702654455606755469	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/main.cpp.o	f79a36f3b0b7242a
+6	817	1702654692213569070	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+6	773	1702654902857298993	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/main.cpp.o	f79a36f3b0b7242a
+7	838	1702654902922290401	CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir/src/Juego.cpp.o	5584db932e180c22
+838	885	1702654902973889581	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/main	54490c27de4555a2

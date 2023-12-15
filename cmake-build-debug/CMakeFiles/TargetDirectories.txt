@@ -1,0 +1,3 @@
+/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/cmake-build-debug/CMakeFiles/ayp2_plantilla_tp_grupal_2c2023.dir
+/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP3_GRUPAL/AYP2_TP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
